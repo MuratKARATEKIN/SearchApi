@@ -1,4 +1,5 @@
 def main():
+    # Todo test edilecek..
     deger1  = 1 
     deger2 = 2
 
