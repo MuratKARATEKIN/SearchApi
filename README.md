@@ -1,2 +1,2 @@
 # Test amaçlı bir proje
-# geiştirilecektir.
+# geliştirilecektir.
