@@ -1,1 +1,2 @@
-#Test amaçlı bir proje
+# Test amaçlı bir proje
+# geiştirilecektir.
